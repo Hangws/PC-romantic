@@ -1,0 +1,9 @@
+body{
+  -webkit-app-region:drag;
+  background-color: #CA2428;
+}
+*{
+  -webkit-app-region:no-drag;
+  padding: 0;
+  margin: 0;
+}
